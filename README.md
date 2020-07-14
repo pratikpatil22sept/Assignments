@@ -1,2 +1,2 @@
-# Assignments
-FCS Javascript Assignments
+# Js-Assignments
+LetsUpgrade JS Assignments
